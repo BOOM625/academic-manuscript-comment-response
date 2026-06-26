@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Manuscript Comment Response"
+  short_description: "Evaluate and reply to academic manuscript comments in Word."
+  default_prompt: "Use $academic-manuscript-comment-response to evaluate and reply to teacher or expert comments in a manuscript DOCX."
